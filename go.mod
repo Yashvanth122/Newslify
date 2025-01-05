@@ -1,3 +1,3 @@
-module github.com/siddhant-vij/Dynamic-Newsletter-Tool
+module github.com/Yashvanth122/EventFlow
 
 go 1.22.2

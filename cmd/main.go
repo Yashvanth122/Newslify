@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/siddhant-vij/Dynamic-Newsletter-Tool/internal"
+	"github.com/Yashvanth122/EventFlow/internal"
 )
 
 func main() {
